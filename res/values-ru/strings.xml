@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">ROM Control</string>
+    <string name="app_name">Настройки ROM</string>
 
     <!-- Header Strings -->
     <string name="user_interface">Интерфейс</string>
@@ -72,7 +72,7 @@
     <string name="menu_nav_bar_reset">Сброс нав.панели</string>
     <string name="menu_ribbon_reset">Сброс ленты</string>
     <string name="menu_ribbon_rearrange">Изменение ленты</string>
-    <string name="menu_ribbon_toggles">Setup toggles</string>
+    <string name="menu_ribbon_toggles">Настроить переключатели</string>
     <string name="menu_ribbon_toggles_error">Toggles are only available for the left and right swipe ribbons.</string>
     <string name="menu_user_interface_reset">Сброс фона уведомлений</string>
     <string name="menu_lockscreens_reset">Сброс обоев экрана блокировки</string>
